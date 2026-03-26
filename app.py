@@ -6,8 +6,9 @@ from src.resume_scorer import calculate_score
 st.title("AI Resume Analyzer")
 
 uploaded_file = st.file_uploader("Upload your resume (PDF)", type=["pdf"])
+jd_text = st.text_area("Paste Job Description")
 
-if uploaded_file is not None:
+if uploaded_file is not None and jd_text:
     with open("temp.pdf", "wb") as f:
         f.write(uploaded_file.read())
 
@@ -15,8 +16,14 @@ if uploaded_file is not None:
     skills = extract_skills(text)
     score = calculate_score(skills)
 
+    from src.jd_matcher import calculate_similarity
+    jd_score = calculate_similarity(text, jd_text)
+
     st.subheader("Extracted Skills")
     st.write(skills)
 
     st.subheader("Resume Score")
     st.write(f"{score}%")
+
+    st.subheader("JD Match Score")
+    st.write(f"{jd_score}%")
