@@ -42,6 +42,7 @@ This project demonstrates practical implementation of **NLP concepts**, **data p
 
 ## 📂 Project Structure
 
+```
 ai-resume-analyzer/
 │── src/
 │   ├── resume_parser.py
@@ -56,7 +57,7 @@ ai-resume-analyzer/
 │── README.md
 │── .gitignore
 │── LICENSE
-
+```
 ---
 
 ## ⚙️ Installation & Setup
