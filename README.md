@@ -65,7 +65,7 @@ ai-resume-analyzer/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/ai-resume-analyzer.git
+git clone https://github.com/rakesh-meka/ai-resume-analyzer.git
 cd ai-resume-analyzer
 
 ### 2. Create virtual environment
