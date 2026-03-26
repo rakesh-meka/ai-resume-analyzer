@@ -1,4 +1,3 @@
-
 import streamlit as st
 from src.resume_parser import extract_text_from_pdf
 from src.skill_extractor import extract_skills
@@ -96,4 +95,3 @@ st.markdown(
     "<div style='text-align:center; color: gray; </div>",
     unsafe_allow_html=True
 )
-```
