@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 from src.resume_parser import extract_text_from_pdf
 from src.skill_extractor import extract_skills
