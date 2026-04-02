@@ -123,7 +123,6 @@ streamlit run app.py
 
 ## 📫 Contact
 
-* Name: Rakesh Meka
 * LinkedIn: https://www.linkedin.com/in/rakeshmeka
 * Email: rakeshmeka.work@gmail.com
 
