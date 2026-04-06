@@ -25,7 +25,7 @@ This project demonstrates practical implementation of **NLP concepts**, **data p
 * 📊 Job Description vs Resume matching using TF-IDF
 * 🔍 Extract text using PDF parsing
 * 🧠 Identify skills using keyword-based NLP
-* 📊 Generate a resume score (%)
+* 📊 Generate a resume score
 * 🌐 Interactive UI using Streamlit
 * 🚀 Deployed and accessible online
 
