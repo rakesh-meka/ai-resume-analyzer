@@ -1,6 +1,6 @@
 # 🚀 AI Resume Analyzer
 
-An end-to-end AI-powered application that analyzes resumes (PDF), extracts key skills and calculates a relevance score based on predefined criteria.
+An end-to-end AI-powered application that analyzes resumes (PDF) extracts key skills and calculates a relevance score based on predefined criteria.
 
 🔗 **Live Demo:**
 https://ai-resume-analyzer-zaf8z3zge5hf2es6szabwj.streamlit.app
