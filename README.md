@@ -15,7 +15,7 @@ The **AI Resume Analyzer** is designed to automate resume evaluation by:
 * Identifying relevant technical skills
 * Scoring resumes based on skill match
 
-This project demonstrates practical implementation of **NLP concepts**, **data processing**, and **end-to-end deployment** using modern tools.
+This project demonstrates practical implementation of **NLP concepts**, **data processing** and **end-to-end deployment** using modern tools.
 
 ---
 
