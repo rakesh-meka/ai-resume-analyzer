@@ -121,13 +121,6 @@ streamlit run app.py
 
 ---
 
-## 📫 Contact
-
-* LinkedIn: https://www.linkedin.com/in/rakeshmeka
-* Email: rakeshmeka.work@gmail.com
-
----
-
 ## ⭐ Acknowledgment
 
 If you find this project useful, consider giving it a ⭐ on GitHub.
