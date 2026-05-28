@@ -102,7 +102,7 @@ streamlit run app.py
 
 ## 🚀 Future Enhancements
 
-* Advanced NLP using spaCy / Transformers
+* Advanced NLP using spaCy
 * Semantic similarity scoring
 * Resume ranking system
 * Dashboard with visual analytics
