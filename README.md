@@ -96,7 +96,7 @@ streamlit run app.py
 ## 📊 Example Output
 
 * Extracted Skills: ['python', 'sql', 'machine learning']
-* Resume Score: 62.5%
+* Resume Score: 65.5%
 
 ---
 
