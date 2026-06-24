@@ -93,13 +93,6 @@ streamlit run app.py
 
 ---
 
-## 📊 Example Output
-
-* Extracted Skills: ['python', 'sql', 'machine learning']
-* Resume Score: 65.5%
-
----
-
 ## 🚀 Future Enhancements
 
 * Advanced NLP using spaCy
