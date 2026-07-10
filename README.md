@@ -66,6 +66,7 @@ ai-resume-analyzer/
 ### 1. Clone the repository
 
 git clone https://github.com/rakesh-meka/ai-resume-analyzer.git
+
 cd ai-resume-analyzer
 
 ### 2. Create virtual environment
@@ -116,7 +117,7 @@ streamlit run app.py
 
 ## ⭐ Acknowledgment
 
-If you find this project useful, consider giving it a ⭐ on GitHub.
+If you find this project useful consider giving it a ⭐ on GitHub.
 
 ---
 
